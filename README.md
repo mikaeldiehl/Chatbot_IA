@@ -1,5 +1,5 @@
-Need add a API KEY, use Colab Notebook
-And use !pip commands in terminal:
+Need add a API KEY, use Google Colab
+And use !pip commands:
 
 !pip install langchain
 !pip install langchain.groq
