@@ -1,4 +1,4 @@
-Needed add a API KEY in groqcloud, use a new notebook file in Google Colab and use this !pip commands:
+Needed add a API KEY in groqcloud, use a new notebook file With this Python code in Google Colab and use this !pip commands in first lines of codding:
 
 !pip install langchain
 !pip install langchain.groq
