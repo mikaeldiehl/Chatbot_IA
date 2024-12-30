@@ -1,4 +1,4 @@
-Need add a API KEY
+Need add a API KEY, use Colab Notebook
 And use !pip commands in terminal:
 
 !pip install langchain
